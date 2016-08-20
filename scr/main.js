@@ -1,1 +1,1 @@
-require('./hello')();
+require('./parent')();
